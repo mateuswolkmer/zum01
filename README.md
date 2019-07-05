@@ -2,6 +2,7 @@
 
 **Zum01** is a space border control simulation point-and-click game. It´s Papers Please, IN SPACE.
 It is was made completely in the game engine Unity with **third party** assets.
+The main and only language of the ingame text is Portuguese.
 
 ![](res/gif.gif)
 
